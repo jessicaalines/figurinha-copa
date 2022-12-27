@@ -7,8 +7,6 @@ Projeto construído no evento NLW Copa da Rocketseat.
 
 ![preview](./.github/preview.jpg)
 
-🔗[Clique aqui para acessar](https://jessicaalines.github.io/nlw-esports-explorer)
-
 ## 👽 Tecnologias 
 
 - React Native
